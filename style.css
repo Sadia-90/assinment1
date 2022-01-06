@@ -1,0 +1,157 @@
+.main-div{
+    padding: 100px;
+}
+.section{
+   
+    padding: 10px;
+    width: 100%;
+    height: 200px;
+   display: flex;
+   
+
+}
+.first-heading{
+    width: 50%;
+        
+}
+.margin{
+    border-left: 2px solid maroon;
+}
+.color1{
+    color: maroon;
+}
+
+
+.paragraph{
+   text-align: justify;
+}
+.images{
+    width: 250px;
+    height: 250px;
+   display: flex;
+   background-image: url(./images/shapes/shape-1.png);
+   background-repeat: no-repeat;
+   padding-left: 200px;
+
+
+}
+.button{
+    font-size: 20px;
+    padding: 5px;
+    background-color: brown;
+    color: rgb(243, 232, 232);
+    border-radius: 5px;
+    text-decoration: none;
+}
+.text{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+section{
+    display: flex;
+    
+    padding: 5px;
+    
+    
+
+}
+.img1{
+    width: 200px;
+}
+.div1{
+   background-color: rgb(196, 230, 231);
+   width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 5px;
+  
+}
+.img2{
+    width: 200px;
+}
+.div2{
+    background-color: rgb(199, 219, 199);
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.img3{
+    width: 200px;
+}
+.div3{
+  background-color: rgb(219, 171, 171);
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 5px;
+}
+.another-part{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-left: 100px;
+}
+.groups-study{
+    text-decoration: none;
+    color: rgb(14, 2, 2);
+    font-weight: 700;
+    margin-left: 450px;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 300px;
+}
+.another-parts{
+    background-image: url(./images/shapes/shape-9.png);
+    background-repeat: no-repeat;
+    display: flex;
+    
+}
+.speace{
+    margin-left: 300px;
+}
+.pink-flower{
+    width: 100%;
+    height: 350px;
+    box-shadow:10px 10px 30px rgba(134, 99, 12, 0.678);
+    border: 5px solid darkred;
+    border-radius: 20px;
+    background-image: url(./images/f90076b6b53788820c3097dea3cccb2c.jfif);
+    background-repeat: no-repeat;
+    text-decoration: none;
+    margin: 0px;
+    text-align: right;
+    text-shadow: 10px 20px 10px brown;
+ }
+ .finish{
+     text-align: center;
+     width: 100%;
+     height: 100px;
+     background-color: rgb(5, 5, 7);
+     color: darkgray;
+    font-size: 30px;
+    
+ }
+ .work{
+     text-align: center;
+     font-size: 100px;
+     padding: 10px;
+ }
+ .last-one{
+      padding: 50px;
+      height: 150px;
+     background-color: rgb(13, 13, 15);
+     color: oldlace;
+     text-align: center;
+
+     
+ }
+ .color-c{
+     color: brown;
+ }
+ 
